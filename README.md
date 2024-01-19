@@ -1,3 +1,12 @@
+- Full Stack developer:
+  * Javascript
+  * Typescript
+  * NodeJS
+  * Angular
+- Software developer:
+  * Typescript
+  * C
+
 <!--![GitHub Views](https://komarev.com/ghpvc/?username=unaiiM&color=2A3F36)
 <br />-->
 <!--[![unaiiM github stats](https://github-readme-stats.vercel.app/api?username=unaiiM&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
