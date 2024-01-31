@@ -1,10 +1,10 @@
 - Full Stack developer:
-  * Javascript (NodeJS)
+   * Javascript (ES6)
   * Typescript
   * Angular
 - Software developer:
   * Typescript
-  * JavaScript (NodeJS)
+  * JavaScript (NodeJS - ES6)
   * C (C99)
     
 <!--![GitHub Views](https://komarev.com/ghpvc/?username=unaiiM&color=2A3F36)
